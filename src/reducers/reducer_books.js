@@ -1,15 +1,19 @@
 export default function () {
     return [{
-            title: 'Javascript: The God Parts'
+            title: 'Javascript: The God Parts',
+            pages: 101
         },
         {
-            title: 'Harry Potter'
+            title: 'Harry Potter',
+            pages: 20
         },
         {
-            title: 'The Dark Tower'
+            title: 'The Dark Tower',
+            pages: 55
         },
         {
-            title: 'Eloquent Ruby'
+            title: 'Eloquent Ruby',
+            pages: 40
         }
     ]
 }
